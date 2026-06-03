@@ -1,5 +1,7 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,top-of-vessel,0.5,0.5,1,,"What is this ceramic vessel and in what situations were vessels like these utilized? ","Double-spout bridge vessels such as these were extremely popular in Nasca Society because of their use during feasting ceremonies, ancestor worship and rituals in which they held a ceremonial drink known as chicha, a corn beer. This polychrome vessel would have had ceremonial use for ritual drinking, and was often placed with the deceased. This double-spout bridge vessel is a coiled ceramic, a ceramic made by a process of hand-building clay via stacking and merging ropes. Coiled clay ceramics are one of the oldest found from Nasca material culture, dating to the culture’s inception, around 200 BCE. 
+",,Learn more,bimetallic-spoon-learn-more.md,Go deeper,bimetallic-spoon-go-deeper.md,,,
 2,bimetallic-effigy-spoon,0.5,0.5,1,,When was this used?,Chavin culture,,,,,,,,
 3,telar-placeholder,0.5,0.5,1,,Who made it?,,,,,,,,,
 4,telar-placeholder,0.5,0.5,1,,Who was it made for?,,,,,,,,,
