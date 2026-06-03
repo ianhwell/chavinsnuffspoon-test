@@ -1,4 +1,8 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,bimetallic-effigy-spoon,0.5,0.5,1,,What is,snuff spoon,,,,,,,,
-2,bimetallic-effigy-spoon,0.5,0.5,1,,yada yada yada,,,,,,,,,
+2,bimetallic-effigy-spoon,0.5,0.5,1,,When was this used?,Chavin culture,,,,,,,,
+3,telar-placeholder,0.5,0.5,1,,Who made it?,,,,,,,,,
+4,telar-placeholder,0.5,0.5,1,,Who was it made for?,,,,,,,,,
+5,telar-placeholder,0.5,0.5,1,,Who would have access to this object?,,,,,,,,,
+6,telar-placeholder,0.5,0.5,1,,What are the contexts for its uses?,,,,,,,,,
+7,,0.5,0.5,1,,Is this object unique?,,,,,,,,,
